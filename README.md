@@ -50,3 +50,7 @@ In both academic and professional settings, I enjoy solving complex problems, pr
 ### Interests
  🏐 🧗 🏂
 
+### You can reach me on
+<a href="https://www.linkedin.com/in/inga-dyląg/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
