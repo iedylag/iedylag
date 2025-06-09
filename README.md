@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Inga!
 
-I’m a passionate **software developer** with a strong background in mathematics and a growing expertise in data science and machine learning.
+I’m a passionate **software developer** with a strong background in mathematics and a growing expertise in data science and machine learning. \
 I hold a BSc in **Mathematics** and currently work as a **Java Developer** while pursuing an M.Eng. in **Computer Science** with a focus on **Data Science**. 
 I'm especially interested in combining my analytical mindset with machine learning to build intelligent, impactful systems.
 In both academic and professional settings, I enjoy solving complex problems, proposing creative solutions, and learning by doing.
@@ -24,11 +24,5 @@ In both academic and professional settings, I enjoy solving complex problems, pr
 ---
 
 ### Interests
-
-I thrive on sports that challenge both body and mind. I enjoy:
-- 🏐 Volleyball – for teamwork and strategy  
-- 🧗 Rock climbing – for endurance and problem-solving  
-- 🎾 Squash – for its fast pace and intensity  
-- 🏂 Snowboarding – for adrenaline and winter landscapes  
-- 🥾 Hiking – for reconnecting with nature and adventure  
+ 🏐 🧗 🏂
 
