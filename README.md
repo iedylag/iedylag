@@ -1,9 +1,8 @@
 # 👋 Hi there, I’m Inga!
 
 I’m a passionate **software developer** with a strong background in mathematics and a growing expertise in data science and machine learning. \
-I hold a BSc in **Mathematics** and currently work as a **Java Developer** while pursuing an M.Eng. in **Computer Science** with a focus on **Data Science**. 
-I'm especially interested in combining my analytical mindset with machine learning to build intelligent, impactful systems.
-In both academic and professional settings, I enjoy solving complex problems, proposing creative solutions, and learning by doing.
+I hold a BSc in **Mathematics** and currently work as a **Java Developer** and also pursuing an M.Eng. in **Computer Science** with a focus on **Data Science**. 
+I enjoy solving complex problems and devising creative solutions both academically and professionally.
 
 ---
 
